@@ -1,3 +1,12 @@
+## Simple Methods
+
+A simple, static, React based webpaged built using react-bootstrap.
+
+- Can be used as a cheat sheet for various JS methods
+- Can be used as a "study guide" for varios JS methods
+- Can be used for whatever purpose you want (in regards to...well various JS methods)
+- Enjoy!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
