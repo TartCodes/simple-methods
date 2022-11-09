@@ -7,6 +7,13 @@ A simple, static, React based webpaged built using react-bootstrap.
 - Can be used for whatever purpose you want (in regards to...well various JS methods)
 - Enjoy!
 
+## To-Do List
+
+- Finishing adding String Methods
+- Add Array and Object Methods
+- Decide on one page or multiple pages
+- Other *things*...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
